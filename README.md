@@ -74,6 +74,7 @@ It supports:
 
 # 🏗️ System Architecture
 
+```
 IoT Devices (Arduino / ESP32 / Sensors)
 
               │
@@ -105,7 +106,7 @@ WebSocket / Real-Time Layer
               ▼
               
 React Dashboard (Visualization UI)
-
+```
 
 ---
 
