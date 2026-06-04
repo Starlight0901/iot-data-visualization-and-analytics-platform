@@ -75,23 +75,35 @@ It supports:
 # 🏗️ System Architecture
 
 IoT Devices (Arduino / ESP32 / Sensors)
+
               │
               ▼
+
 Data Ingestion Layer (HTTP / MQTT Gateway)
+
               │
               ▼
+
 Backend API (Node.js / Express)
+
               │
               ▼
+
 Data Processing Layer (Validation & Transformation)
+
               │
               ▼
+
 Database (Firestore / MongoDB)
+              
               │
               ▼
+              
 WebSocket / Real-Time Layer
+              
               │
               ▼
+              
 React Dashboard (Visualization UI)
 
 
